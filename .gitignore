@@ -1,2 +1,4 @@
 node_modules/
-download/*
+download/*.jpg
+download/*.gif
+download/*.png
